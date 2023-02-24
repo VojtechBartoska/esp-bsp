@@ -45,7 +45,7 @@ For you convenience, each BSP also provides a wrapper header, which has the same
 
 > **_NOTE:_** There can be only one BSP in a single esp-idf project.
 
-### In a custom project
+### In a custom projects
 Packages from this repository are uploaded to the [IDF component registry](https://components.espressif.com/).
 You can add them to your project via `idf.py add-dependency`, e.g.
 ```
